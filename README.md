@@ -11,7 +11,7 @@ streamlit run main.py
 2. Click the "Transfer Style" button to perform style transfer.
 3. View the stylized image.
 
-#### 使い方
+## 使い方
 
 ```
 streamlit run main.py
