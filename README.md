@@ -20,3 +20,7 @@ streamlit run main.py
 1. コンテンツ画像とスタイル画像をアップロード
 2. [Transfer Style]ボタンをクリック
 3. スタイル化された画像の表示
+
+
+### 参照
+https://www.tensorflow.org/hub/tutorials/tf2_arbitrary_image_stylization?hl=ja
